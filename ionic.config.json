@@ -1,0 +1,7 @@
+{
+  "name": "Deber_3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
